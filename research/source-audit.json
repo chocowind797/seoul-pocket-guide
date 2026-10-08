@@ -1,0 +1,485 @@
+{
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "id": 0,
+      "title": "Royal Water 皇室香水",
+      "url": "https://www.threads.com/share/BAbQ5P4ZEL/",
+      "status": "已讀",
+      "summary": "作者偏好 03、61、57 號香氣；可作試香起點，不能推論人人喜歡。原文未交代可確認的門市與售價。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 1,
+      "title": "樂天百貨會員卡",
+      "url": "https://www.threads.com/share/BAX6H8EOFv/",
+      "status": "已讀",
+      "summary": "作者分享持護照辦理外國旅客會員，中文服務與優惠不能保證每次相同；原文沒有完整資格、折扣期限。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 2,
+      "title": "聖水醬蟹門",
+      "url": "https://www.threads.com/share/_wPyF46Px/",
+      "status": "已讀",
+      "summary": "提及 게장문 聖水店、地下 1 樓地址及 11:00–20:00 時段；缺乏足夠用餐細節，不能視為獨立高分評價。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 3,
+      "title": "醬蟹踩雷與留言推薦",
+      "url": "https://www.threads.com/share/BAWNtOdVjJ/",
+      "status": "已讀",
+      "summary": "作者覺得 Odarijip 不如期待，較肯定營業晚。可見留言分別推 Pro、真味、水刺，也有人覺得真味普通；口味分歧且分店不明。",
+      "scope": "正文與可見留言（非全部留言）"
+    },
+    {
+      "id": 4,
+      "title": "ChatGPT 行程分享",
+      "url": "https://chatgpt.com/share/6ac20b71-87cc-83e8-927b-aea9d9f2653e",
+      "status": "無法取得",
+      "summary": "分享頁無可讀對話內容，無法還原或確認原行程。",
+      "scope": "已嘗試原始連結，無可讀正文"
+    },
+    {
+      "id": 5,
+      "title": "首爾秋季活動",
+      "url": "https://www.threads.com/share/BAtifpOhFy/",
+      "status": "部分可讀",
+      "summary": "診所帳號彙整秋季活動；文字只提供月份主題，未完整讀到圖內日期，不把宣傳列表當已確認活動表。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 6,
+      "title": "市場麝香葡萄",
+      "url": "https://www.threads.com/share/BBJdh94Qn6/",
+      "status": "已讀",
+      "summary": "作者比較路邊與市場葡萄價格，曾買到 ₩2,000；攤位、重量和品質不同，不能當固定市價。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 7,
+      "title": "明洞煉乳起司年糕",
+      "url": "https://www.threads.com/share/BAQnrq7E5g/",
+      "status": "已讀",
+      "summary": "作者喜歡明洞煉乳起司年糕，以照片辨認攤販；文字沒有足以定位的固定地址。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 8,
+      "title": "首爾旅行小提醒",
+      "url": "https://www.threads.com/share/BABFjHTr1o/",
+      "status": "已讀",
+      "summary": "含 NAVER、叫車、購物與退稅提示。「聖水與延南可一起走路逛」地理上不適合；25–27 日促銷也不在此趟日期。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 9,
+      "title": "美食價格照片集",
+      "url": "https://www.threads.com/share/BAOYLW23FE/",
+      "status": "部分可讀",
+      "summary": "主要價格在照片內，文字區只說前幾張為兩人份、其餘單人份；未取得可靠逐項金額，不填入虛構餐費。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 10,
+      "title": "明洞鐵鍋泡菜烤肉",
+      "url": "https://www.threads.com/share/BAV5sVOh26/",
+      "status": "已讀",
+      "summary": "무쇠김치삼겹 明洞店，作者喜歡泡菜與店員代烤；記錄每份 ₩16,000／18,000，尖峰可能排隊。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 11,
+      "title": "地鐵出口筆記",
+      "url": "https://www.threads.com/share/_5MMZqfHK/",
+      "status": "已讀",
+      "summary": "彙整弘大、明洞、聖水出口；弘大電扶梯敘述有矛盾，無障礙動線應看站內標示。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 12,
+      "title": "仁川機場自駕接駁車",
+      "url": "https://www.threads.com/share/BAU0AP6Zag/",
+      "status": "已讀",
+      "summary": "文中自動小車為 T2 管制區內服務，有時段與週二、三停駛限制，未獨立核實；不適合依賴在 10/13 週二早班返程。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 13,
+      "title": "Smartpass 快速通關",
+      "url": "https://www.threads.com/share/BACkE4C4bh/",
+      "status": "已讀",
+      "summary": "將 Smartpass 與 SES 混為一談。仁川官方明確區分兩者；登機口支援與安檢入口適用範圍也不同，不能保證快速通關時間。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 14,
+      "title": "購物地區整理",
+      "url": "https://www.threads.com/share/BASWc77thD/",
+      "status": "已讀",
+      "summary": "診所帳號概括各商圈特色，可作分類參考；不是店家實測排名，也不代表免稅一定較便宜。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 15,
+      "title": "韓國旅遊資訊網站",
+      "url": "https://www.threads.com/share/_oMc_w1xH/",
+      "status": "部分可讀",
+      "summary": "文字稱讚資訊網站，圖片涉及回饋／代辦介紹；未找到可驗證網站網址與營運身分，不當作中立優惠來源。",
+      "scope": "正文及網站介紹圖片；未取得可驗證網址"
+    },
+    {
+      "id": 16,
+      "title": "首爾美食真實心得",
+      "url": "https://www.threads.com/share/BACeWUXn4c/",
+      "status": "已讀",
+      "summary": "已讀 20 張圖片／影片畫面及部分留言。保留烤肉、肥腸、辣炒年糕、醬蟹等好壞評價；圖片內星等只是當時截圖，不轉成即時評分。",
+      "scope": "20 張輪播圖片／影片畫面、正文與部分可見留言"
+    },
+    {
+      "id": 17,
+      "title": "大創瀏海去油",
+      "url": "https://www.threads.com/share/BAWNewOCBR/",
+      "status": "部分可讀",
+      "summary": "作者稱瀏海去油用品方便；型號和成分未從文字確認，不把泛稱當精確採買清單。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 18,
+      "title": "首爾大創分店整理",
+      "url": "https://www.instagram.com/p/DeD_A8uk01q/?img_index=3&stkn=MWRidDg4aHR4bTM5cQ==",
+      "status": "已讀",
+      "summary": "讀到完整圖說與可見留言，列出 10 間分店地址、樓層和當時時段；貼文標示 AI 資訊。分店設施與時間仍須店方確認。",
+      "scope": "完整圖說與可見留言；非所有分店照片逐張核實"
+    },
+    {
+      "id": 19,
+      "title": "SES 自動通關提問",
+      "url": "https://www.threads.com/share/_ojT_v1P4/",
+      "status": "已讀",
+      "summary": "原文是 SES 申請問題，沒有足夠答案；不能把提問當作核實後的入境規則。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 20,
+      "title": "HAZ BAKERY",
+      "url": "https://www.threads.com/share/_6R1m0cCI/",
+      "status": "已讀",
+      "summary": "作者購買 HAZ 四款麵包合計 ₩29,500，兩次到店、11 點左右有人排隊；精確分店與當日開門時間待確認。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 21,
+      "title": "Moneyplanet 換匯",
+      "url": "https://www.threads.com/share/BAWUFk23-N/",
+      "status": "已讀",
+      "summary": "作者偏好 Moneyplanet，但沒有同時點淨到手比較，不能證明全首爾匯率最佳。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 22,
+      "title": "釜山南浦配眼鏡",
+      "url": "https://www.threads.com/share/_2-eCUmZx/",
+      "status": "已讀",
+      "summary": "配鏡地點在釜山南浦，作者稱高度近視鏡片 ₩60,000；店名未確定，此次首爾三日不安排。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 23,
+      "title": "韓國眼鏡店圖卡",
+      "url": "https://www.threads.com/share/BAIuQqSQ2n/",
+      "status": "部分可讀",
+      "summary": "正文只預告眼鏡店圖卡，未取得完整圖內店名與條件；不建立虛構名單。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 24,
+      "title": "配眼鏡與隱形眼鏡心得",
+      "url": "https://www.threads.com/share/_prT8-Mza/",
+      "status": "部分可讀",
+      "summary": "作者稱配鏡加隱形眼鏡划算且快，但沒有可定位店名；只能當個人經驗。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 25,
+      "title": "配眼鏡分享（失效）",
+      "url": "https://www.threads.com/share/nUYSNjJ/",
+      "status": "連結失效",
+      "summary": "Threads 顯示無法使用／內容不存在，不能解析。",
+      "scope": "已嘗試原始連結，無可讀正文"
+    },
+    {
+      "id": 26,
+      "title": "OPTIC LIFE 明細",
+      "url": "https://www.threads.com/share/BAWukMUuI5/",
+      "status": "已讀",
+      "summary": "2026/8 單副明細：原價 ₩112,000，作者套用七折後 ₩78,400，另提退稅與券成本；散光例需約三小時。優惠不是現行保證。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 27,
+      "title": "OPTIC LIFE 雙副心得",
+      "url": "https://www.threads.com/share/__bYMtspL/",
+      "status": "已讀",
+      "summary": "2026/8 雙副 ₩130,000，作者稱約十分鐘、有中文協助；與另一篇等待時間、服務語言不一致，應視現場需求確認。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 28,
+      "title": "高度近視配鏡",
+      "url": "https://www.threads.com/share/BAs7GmXyDE/",
+      "status": "部分可讀",
+      "summary": "2025/6 高度近視配鏡心得，店名未由文字確認；年份較早，不當作現在報價。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 29,
+      "title": "散光配鏡提問",
+      "url": "https://www.threads.com/share/BAV0g969G6/",
+      "status": "部分可讀",
+      "summary": "2025/5 散光 100–150 度當天取件的提問，沒有可驗證的承諾。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 30,
+      "title": "五萬韓元配眼鏡",
+      "url": "https://www.threads.com/share/_et0ZTcdQ/",
+      "status": "部分可讀",
+      "summary": "作者記錄鏡框加鏡片 ₩50,000，但店名不明；缺少規格不能直接和其他店比較。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 31,
+      "title": "兩副眼鏡與鏡框",
+      "url": "https://www.threads.com/share/_zkHSTRzk/",
+      "status": "部分可讀",
+      "summary": "作者分享兩副加鏡框合計 1,200，文字幣別與明細不清，無法換算或比較。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 32,
+      "title": "小紅書隱形眼鏡",
+      "url": "http://xhslink.com/o/3pZM0PVHTb5",
+      "status": "無法取得",
+      "summary": "小紅書短連結開啟逾時，未取得文章內容。",
+      "scope": "已嘗試原始連結，無可讀正文"
+    },
+    {
+      "id": 33,
+      "title": "仁川第一航廈退稅",
+      "url": "https://www.threads.com/share/BASlTRhisw/",
+      "status": "已讀",
+      "summary": "診所整理退稅流程；已另外核對仁川官方：需要查驗的託運商品應先完成海關程序，再交付行李。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 34,
+      "title": "小紅書淡斑保養",
+      "url": "http://xhslink.com/o/5ufhYNXzzil",
+      "status": "無法取得",
+      "summary": "小紅書短連結遇到瀏覽器憑證安全警告，未繞過警告，內容無法取得。",
+      "scope": "已嘗試原始連結，無可讀正文"
+    },
+    {
+      "id": 35,
+      "title": "小紅書毛孔保養",
+      "url": "http://xhslink.com/o/7I992PVexdT",
+      "status": "無法取得",
+      "summary": "小紅書短連結遇到瀏覽器憑證安全警告，未繞過警告，內容無法取得。",
+      "scope": "已嘗試原始連結，無可讀正文"
+    },
+    {
+      "id": 36,
+      "title": "睡衣分享（失效）",
+      "url": "https://www.threads.com/share/lTeDYNX/",
+      "status": "連結失效",
+      "summary": "Threads 連結失效，無法辨認睡衣店。",
+      "scope": "已嘗試原始連結，無可讀正文"
+    },
+    {
+      "id": 37,
+      "title": "弘大 MUSINSA 四種店型",
+      "url": "https://www.instagram.com/reel/DeJuFRoJOVH/?stkn=MWZxaTdpdGJrOTVyMw==",
+      "status": "已讀",
+      "summary": "完整圖說區分 MUSINSA Store、Standard、Kicks、Beauty；留言多在問地圖，不當作消費口碑。",
+      "scope": "影片圖說與可見留言；非完整影片逐幀分析"
+    },
+    {
+      "id": 38,
+      "title": "NYU NYU HOUSE 睡衣",
+      "url": "https://www.instagram.com/reel/DeLsn3KPT_9/?stkn=NWtjemNjbWdsNTBl",
+      "status": "已讀",
+      "summary": "NYU NYU HOUSE 弘大店 2 樓睡衣；作者覺得柔軟、Free Size，留言問材質未有答案，不能稱為全棉。",
+      "scope": "影片圖說與可見留言"
+    },
+    {
+      "id": 39,
+      "title": "弘大十月快閃",
+      "url": "https://www.threads.com/share/BAuyqRi40d/",
+      "status": "已讀",
+      "summary": "診所彙整 10 月弘大快閃：AK 多檔活動於 10/11–16 結束；僅核到貼文資訊，預約／贈品需主辦確認。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 40,
+      "title": "美妝集合店影片",
+      "url": "https://www.threads.com/share/BANRsGX02l/",
+      "status": "部分可讀",
+      "summary": "正文提到美妝集合店但沒有可定位店名；未完成影片逐幀辨識，不能與 MUSINSA Beauty 擅自合併。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 41,
+      "title": "無糖糖果",
+      "url": "https://www.threads.com/share/_xSeooYUF/",
+      "status": "部分可讀",
+      "summary": "作者稱糖果無糖及護牙，但品牌、成分與健康效果未核實；不作防蛀建議。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 42,
+      "title": "Olive Young 美妝心得",
+      "url": "https://www.instagram.com/reel/Dd8idTXB0Rl/?stkn=ZHh4d2p2YWhlb3Rz",
+      "status": "已讀",
+      "summary": "已讀完整圖說與可見留言。作者喜歡 ilso 清潔產品與 CLIO 眼線；有回購留言，也有人詢問刺激性，沒有確定回答。",
+      "scope": "影片圖說與可見留言"
+    },
+    {
+      "id": 43,
+      "title": "Verish 內衣",
+      "url": "https://www.threads.com/share/_nUBPtg4h/",
+      "status": "已讀",
+      "summary": "Verish 作者主觀認為舒服。原文聖水地址中文字有誤，不沿用；保留明洞地址作搜尋起點，尺寸與退換條件當場確認。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 44,
+      "title": "弘大明洞購物提問",
+      "url": "https://www.threads.com/share/BAaMxc6G2O/",
+      "status": "已讀",
+      "summary": "求推薦弘大／明洞購物地點的問題，不是實訪評價。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 45,
+      "title": "首爾百貨比較提問",
+      "url": "https://www.threads.com/share/BAR2mlI1cz/",
+      "status": "已讀",
+      "summary": "比較江南新世界與現代百貨的問題，原文本身沒有結論。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 46,
+      "title": "雨天百貨替代方案",
+      "url": "https://www.threads.com/share/BAXd36t5E6/",
+      "status": "已讀",
+      "summary": "作者建議汝矣島 The Hyundai Seoul 或蠶室樂天作室內購物選項；兩者離得遠，應擇一。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 47,
+      "title": "Emart 採買",
+      "url": "https://www.threads.com/share/BAELVffYkp/",
+      "status": "已讀",
+      "summary": "作者偏好 Emart 採買，沒有一致購物籃價格證據，不能證明比所有超市便宜。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 48,
+      "title": "聖水快閃圖卡",
+      "url": "https://www.threads.com/share/BAVONT4-1z/",
+      "status": "部分可讀",
+      "summary": "主要資訊在圖卡，正文為快閃預告；未完整解析圖中文字，不能列出確定活動。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 49,
+      "title": "聖水十月快閃",
+      "url": "https://www.threads.com/share/_iLHDSEFa/",
+      "status": "已讀",
+      "summary": "標題稱 11 檔，文字可讀 7 檔。多場 10/11 結束；10/9 單日 Illy 活動不適合晚間抵達者安排。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 50,
+      "title": "韓國地鐵錯誤碼",
+      "url": "https://www.threads.com/share/BCNDfJuCqW/",
+      "status": "已讀",
+      "summary": "列出地鐵 E 開頭錯誤碼，未核實各設備適用性；安全做法是保留車票／卡片向站務員求助。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 51,
+      "title": "樂天優惠分享",
+      "url": "https://www.threads.com/share/BAWzV-yzft/",
+      "status": "無法取得",
+      "summary": "分享頁未取得實質優惠內容，不能推算折扣與有效期限。",
+      "scope": "已嘗試原始連結，無可讀正文"
+    },
+    {
+      "id": 52,
+      "title": "新村 고봉당 排骨",
+      "url": "https://www.threads.com/share/BCL9cUTaz1/",
+      "status": "已讀",
+      "summary": "作者在回覆公布 고봉당、30 Yonsei-ro 11-gil；實際是新村，非籠統的弘大。喜歡甜辣排骨與配料，其他留言多為收藏。",
+      "scope": "正文、作者店名地址回覆與可見留言"
+    },
+    {
+      "id": 53,
+      "title": "樂天會員卡（失效）",
+      "url": "https://www.threads.com/share/j48X0Uc/",
+      "status": "連結失效",
+      "summary": "Threads 連結失效，沒有可核對會員內容。",
+      "scope": "已嘗試原始連結，無可讀正文"
+    },
+    {
+      "id": 54,
+      "title": "仁川機場人潮提問",
+      "url": "https://www.threads.com/share/BBajVQtZV-/",
+      "status": "已讀",
+      "summary": "詢問航廈人潮工具，原文沒有已確認答案；另補仁川官方壅塞預測頁。",
+      "scope": "可見正文；不宣稱已閱讀全部圖片、影片及留言"
+    },
+    {
+      "id": 55,
+      "title": "弘大附近接睫毛",
+      "url": "https://www.threads.com/share/_uf5mA7mN/",
+      "status": "部分可讀",
+      "summary": "弘大 8 號出口附近接睫毛個人經驗，未確認店名、資質與現行價格，不安排未知店家。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 56,
+      "title": "藥局價格比較",
+      "url": "https://www.threads.com/share/_ovMhQjOs/",
+      "status": "部分可讀",
+      "summary": "同商品在兩區價格不同的心得，但商品和藥局未由文字確認，不能做同品比價。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 57,
+      "title": "台灣康是美保養油",
+      "url": "https://www.threads.com/share/BAbafkapFM/",
+      "status": "部分可讀",
+      "summary": "內容是在台灣康是美購買保養油，非韓國店家；作者也提到初擦偏厚重，不放入首爾採買路線。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 58,
+      "title": "韓國旅行 App",
+      "url": "https://www.threads.com/share/BAURzP1ckD/",
+      "status": "部分可讀",
+      "summary": "App 清單主要在圖片，文字未列出名稱；指南只另提供可核對的地圖與機場官方連結。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    },
+    {
+      "id": 59,
+      "title": "護髮產品",
+      "url": "https://www.threads.com/share/BAWfkvQrKp/",
+      "status": "部分可讀",
+      "summary": "護髮產品正面個人心得，但文字未確認品牌型號；不以髮況相似推定效果相同。",
+      "scope": "正文可讀；圖內資訊、影片或店家身分未完整確認"
+    }
+  ]
+}
