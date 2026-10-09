@@ -29,3 +29,42 @@ for(const raw of ['[]','["optic"]','broken']){
  assert.equal(vm.runInContext('storageOK',ctx),raw!=='broken');
 }
 console.log(`PASS: ${data.sources.length} sources, ${data.items.length} cards, ${data.days.length} trip days; filters, saved state, escaping, source audit.`);
+
+assert.equal(data.wishlist.length,19);
+assert.equal(new Set(data.wishlist.map(x=>x.id)).size,19);
+for(const item of data.wishlist){assert.match(item.id,/^[a-z0-9-]+$/);assert.ok(item.title&&item.when&&item.note);for(const link of item.links)assert.ok(/^https:\/\//.test(link.url));}
+assert.equal(data.trip.outboundDeparture,'2026-10-09T17:30:00+08:00');
+assert.equal(data.trip.returnDeparture,'2026-10-13T07:55:00+09:00');
+assert.equal(data.trip.appointment.time,'2026-10-11T11:00:00+09:00');
+assert.equal(data.trip.hotel.nights,3);
+assert.ok(data.days[2].steps.some(x=>x.includes('11:00 ODE')));
+assert.ok(data.days[3].route.includes('仁川 T2'));
+assert.ok(html.includes('id="shopping-list"'));
+assert.ok(!html.includes('尚未提供住宿、航班'));
+console.log('PASS: 19-item purchase list; confirmed flights, clinic and three hotel nights.');
+
+// Exercise the actual checklist handler and reload path without a browser dependency.
+function runApp(storage){
+  const nodes=new Map();
+  const get=id=>{if(!nodes.has(id))nodes.set(id,{value:id==='area'?'all':'',innerHTML:'',textContent:'',classList:{add(){},remove(){}},handlers:{},addEventListener(event,fn){this.handlers[event]=fn;}});return nodes.get(id);};
+  const ctx=vm.createContext({window:{GUIDE:data,addEventListener(){}},localStorage:storage,document:{getElementById:get,querySelectorAll:()=>[]},location:{hash:'#wishlist'},setTimeout:()=>1,clearTimeout(){}});
+  vm.runInContext(app,ctx);
+  return get;
+}
+let stored='["optic"]';
+const storage={getItem:()=>stored,setItem:(_,v)=>{stored=v;}};
+let get=runApp(storage);
+assert.equal(get('shopping-count').textContent,'已完成 0 / 19 項');
+get('shopping-list').handlers.change({target:{closest:()=>({dataset:{buy:'glasses'},checked:true})}});
+assert.deepEqual(JSON.parse(stored),['optic','buy-glasses']);
+get=runApp(storage);
+assert.equal(get('shopping-count').textContent,'已完成 1 / 19 項');
+assert.match(get('shopping-list').innerHTML,/data-buy="glasses" checked/);
+assert.match(get('cards').innerHTML,/data-save="optic"[^>]*aria-pressed="true"/);
+get('shopping-list').handlers.change({target:{closest:()=>({dataset:{buy:'glasses'},checked:false})}});
+assert.deepEqual(JSON.parse(stored),['optic']);
+const blocked=runApp({getItem(){throw Error('blocked');},setItem(){throw Error('blocked');}});
+blocked('shopping-list').handlers.change({target:{closest:()=>({dataset:{buy:'glasses'},checked:true})}});
+assert.match(blocked('toast').textContent,/無法儲存/);
+assert.equal(blocked('shopping-count').textContent,'已完成 1 / 19 項');
+console.log('PASS: checklist toggle, reload persistence, favorite compatibility, storage-denied fallback.');
